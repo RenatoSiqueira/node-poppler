@@ -16,7 +16,7 @@ switch (platform) {
 			__dirname,
 			'lib',
 			'darwin',
-			'poppler-0.89.0',
+			'poppler-20.09.0',
 			'bin'
 		);
 		break;
